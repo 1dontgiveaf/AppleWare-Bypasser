@@ -23,7 +23,7 @@
 // DecodeAPI takes longer to bypass but incase it doesn't work, try ut.
 // Also "Invaild Checkpoint Key" is not my issue
 
-var DecodeAPI = 1000;
+var DecodeAPI = 0;
 
 // Auto test (1/0)
 var auto = 1;
