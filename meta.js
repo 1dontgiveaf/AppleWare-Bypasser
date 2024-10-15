@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name        Loot-Link Bypasser
 // @author      .idontgiveaf
-// @version     3.4.5
+// @version     3.4.6
 // @description https://discord.gg/5vNgzbUsA3 this took me 3 days to learn & make, please praise (No sleep)
 // @license     MIT
-// @run-at      document-start
+// @run-at      document-end
 // @match        *://loot-link.com/s?*
 // @match        *://loot-links.com/s?*
 // @match        *://lootlink.org/s?*
