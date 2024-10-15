@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Apple-Ware Bypasser
+// @name        Loot-Link Bypasser
 // @author      .idontgiveaf
 // @version     3.3
 // @description https://discord.gg/5vNgzbUsA3 this took me 3 days to learn & make, please praise (No sleep)
